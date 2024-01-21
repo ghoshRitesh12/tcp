@@ -4,7 +4,7 @@ import (
 	"flag"
 	"log"
 
-	"bruh.com/server"
+	"github.com/ghoshRitesh12/tcp/server"
 )
 
 var (
